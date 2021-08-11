@@ -1,9 +1,9 @@
-import LineGraph from "./LineGraph";
+import BarGraph from "./barGraph";
 
 function App() {
   return (
     <div className="App">
-      <LineGraph/>
+      <BarGraph/>
     </div>
   );
 }
